@@ -410,6 +410,9 @@ footer ul li a:hover {
     font-size: 1em; /* 16px */
     margin-right: 5%;
   }
+  .content p {
+    font-size: .5em;
+  }
 }
 
 /* < 380px */
@@ -426,6 +429,9 @@ footer ul li a:hover {
     font-size: .8125em; /* 13px/16px */
     margin-right: 5%;
     text-transform: uppercase;
+  }
+  .content p {
+    font-size: .5em;
   }
 }
 
