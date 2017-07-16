@@ -200,7 +200,7 @@ nav ul li.active a {
   font-size: 1em;
 }
 .work-exp p {
-  font-size: .9em;
+  font-size: 1.25vmax;
 }
 .plane {
   background: #fff url(images/icons8-Plane-50.png) center center no-repeat;
@@ -222,11 +222,14 @@ nav ul li.active a {
   background: #fff url(images/icons8-Cap-50.png) center center no-repeat;
 }
 
-.projects {
+.project1 {
   height: 225px;
 }
 .rocket {
   background: #fff url(images/icons8-Rocket-50.png) center center no-repeat;
+}
+.project2 {
+  height: 180px;
 }
 .baja {
   background: #fff url(images/icons8-Sedan-50.png) center center no-repeat;
