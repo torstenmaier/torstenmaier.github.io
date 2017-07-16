@@ -398,6 +398,9 @@ footer ul li a:hover {
     padding-top: 10px;
     width: inherit;
   }
+  .content h3 {
+    font-size: 1em;
+  }
 }
 
 /* < 500px */
