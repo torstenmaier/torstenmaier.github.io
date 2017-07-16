@@ -392,6 +392,9 @@ footer ul li a:hover {
     padding-top: 10px;
     width: inherit;
   }
+  .work-exp p {
+    font-size: 2vw;
+  }
 }
 
 /* < 500px */
@@ -403,9 +406,6 @@ footer ul li a:hover {
   nav ul li {
     font-size: 1em; /* 16px */
     margin-right: 5%;
-  }
-  .work-exp p {
-    font-size: .5em;
   }
 }
 
