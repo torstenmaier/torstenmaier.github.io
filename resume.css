@@ -190,13 +190,17 @@ nav ul li.active a {
   height: 90%;
 }
 .content p {
-  font-size: .8em;
+  font-size: 1em;
 }
 .work-exp h3 {
-  font-size: 1.5em;
+  font-size: 1.25em;
 }
 .work-exp h4 {
-  line-height: 2em;
+  line-height: 1.5em;
+  font-size: 1em;
+}
+.work-exp p {
+  font-size: .9em;
 }
 .plane {
   background: #fff url(images/icons8-Plane-50.png) center center no-repeat;
@@ -334,9 +338,6 @@ footer ul li a:hover {
     font-size: 3.75em; /* 60px/16px */
     line-height: 35px;
   }
-  .content p {
-    line-height: 1em;
-  }
 }
 
 /* < 850px */
@@ -358,6 +359,9 @@ footer ul li a:hover {
   .banner-caption {
     bottom: 0;
     width: 100%;
+  }
+  .sidebar p {
+    font-size: .75em;
   }
 }
 
@@ -410,9 +414,6 @@ footer ul li a:hover {
     font-size: 1em; /* 16px */
     margin-right: 5%;
   }
-  .content h3 {
-    font-size: .2em;
-  }
 }
 
 /* < 380px */
@@ -429,9 +430,6 @@ footer ul li a:hover {
     font-size: .8125em; /* 13px/16px */
     margin-right: 5%;
     text-transform: uppercase;
-  }
-  .content h3 {
-    font-size: .2em;
   }
 }
 
