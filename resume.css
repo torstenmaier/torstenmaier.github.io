@@ -407,6 +407,9 @@ footer ul li a:hover {
     font-size: 1em; /* 16px */
     margin-right: 5%;
   }
+  .work-exp p {
+    font-size: 2vw;
+  }
 }
 
 /* < 380px */
@@ -426,6 +429,9 @@ footer ul li a:hover {
     font-size: .8125em; /* 13px/16px */
     margin-right: 5%;
     text-transform: uppercase;
+  }
+  .work-exp p {
+    font-size: 2vw;
   }
 }
 
