@@ -190,7 +190,7 @@ nav ul li.active a {
   height: 90%;
 }
 .work-exp h3 {
-  font-size: 1.5vw;
+  font-size: 1.5em;
 }
 .work-exp h4 {
   line-height: 2em;
@@ -403,6 +403,9 @@ footer ul li a:hover {
   nav ul li {
     font-size: 1em; /* 16px */
     margin-right: 5%;
+  }
+  .work-exp h3 {
+    font-size: .5em;
   }
 }
 
