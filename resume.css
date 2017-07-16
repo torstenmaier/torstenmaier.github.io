@@ -175,7 +175,7 @@ nav ul li.active a {
 
 .work-exp {
   border: 0px black solid;
-  height: 265px;
+  height: 235px;
   overflow: hidden;
 }
 .work-exp .left {
@@ -227,6 +227,26 @@ nav ul li.active a {
 }
 .rocket {
   background: #fff url(images/icons8-Rocket-50.png) center center no-repeat;
+}
+.baja {
+  background: #fff url(images/icons8-Sedan-50.png) center center no-repeat;
+}
+
+.skills {
+  text-align: justify;
+}
+.skills li {
+  display: inline-block;
+  font-size: 1.125em; /* 18px/16px */
+  font-weight: bold;
+  text-align: justify;
+}
+
+.languages li {
+  display: inline-block;
+  font-size: 1.125em; /* 18px/16px */
+  font-weight: bold;
+  margin: 0 100px 0 0;
 }
 
 /* Sidebar */
