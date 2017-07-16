@@ -186,7 +186,7 @@ nav ul li.active a {
   float: right;
   width: 70%;
   margin: 10px;
-  border: 1px black solid;
+  border: 0px black solid;
   height: 90%;
 }
 .work-exp h3 {
