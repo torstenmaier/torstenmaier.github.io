@@ -398,9 +398,6 @@ footer ul li a:hover {
     padding-top: 10px;
     width: inherit;
   }
-  .content h3 {
-    font-size: 1em;
-  }
 }
 
 /* < 500px */
@@ -414,7 +411,7 @@ footer ul li a:hover {
     margin-right: 5%;
   }
   .content h3 {
-    font-size: 1em;
+    font-size: .2em;
   }
 }
 
@@ -434,7 +431,7 @@ footer ul li a:hover {
     text-transform: uppercase;
   }
   .content h3 {
-    font-size: 1em;
+    font-size: .2em;
   }
 }
 
