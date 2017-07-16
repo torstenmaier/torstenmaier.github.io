@@ -182,14 +182,14 @@ nav ul li.active a {
   border-right: 1px black solid;
   height: 90%;
 }
-.content .right {
+.work-exp .right {
   float: right;
   width: 70%;
   margin: 10px;
   border: 0px black solid;
   height: 90%;
 }
-.content p {
+.work-exp p {
   font-size: 1em;
 }
 .work-exp h3 {
@@ -210,6 +210,23 @@ nav ul li.active a {
 }
 .tube {
   background: #fff url(images/icons8-Tube-50.png) center center no-repeat;
+}
+
+.education {
+  height: 200px;
+}
+.penn {
+  background: #fff url(images/icons8-Book-50.png) center center no-repeat;
+}
+.UE {
+  background: #fff url(images/icons8-Cap-50.png) center center no-repeat;
+}
+
+.projects {
+  height: 225px;
+}
+.rocket {
+  background: #fff url(images/icons8-Rocket-50.png) center center no-repeat;
 }
 
 /* Sidebar */
