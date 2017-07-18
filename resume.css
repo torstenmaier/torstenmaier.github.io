@@ -193,14 +193,14 @@ nav ul li.active a {
   font-size: 1em;
 }
 .work-exp h3 {
-  font-size: 1.25em;
+  font-size: 22px;
 }
 .work-exp h4 {
   line-height: 1.5em;
-  font-size: 1em;
+  font-size: 18px;
 }
 .work-exp p {
-  font-size: 1.25vmax;
+  font-size: 14px;
 }
 .plane {
   background: #fff url(images/icons8-Plane-50.png) center center no-repeat;
@@ -407,6 +407,15 @@ footer ul li a:hover {
   }
   .sidebar p {
     font-size: .75em;
+  }
+  .work-exp h3 {
+    font-size: 20px;
+  }
+  .work-exp h4 {
+    font-size: 16px;
+  }
+  .work-exp p {
+    font-size: 12px;
   }
 }
 
