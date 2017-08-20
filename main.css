@@ -45,7 +45,7 @@ body {
   margin-bottom: 0;
 }
 img {
-  max-width: 100%;
+  max-width: 50%;
 }
 
 /* Typography */
@@ -192,7 +192,7 @@ nav ul li.active a {
   padding: 10px 0 15px;
   display: block;
   margin: 0 auto;
-  border-radius: 175px;
+  border-radius: 200px;
 }
 
 /* Sidebar */
